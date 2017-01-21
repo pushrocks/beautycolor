@@ -1,6 +1,6 @@
 {
   "name": "beautycolor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "colors for beautylog",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
