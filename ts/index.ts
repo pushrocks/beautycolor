@@ -5,12 +5,14 @@ import * as ansiColors from 'ansi-256-colors'
  * all the color names that are available for proper xterm translation
  */
 export type TColorName = 'black' |
+    'black' |
     'blue' |
     'brown' |
     'cyan' |
     'green' |
-    'red' |
     'orange' |
+    'pink' |
+    'red' |
     'white'
 
 export interface IRGB {
@@ -24,20 +26,22 @@ export interface IRGB {
  */
 let colorTranslator = (colorArg: TColorName): IRGB => {
     switch (colorArg) {
+        case 'black':
+            return {r: 0, g: 0, b: 0}
         case 'blue':
             return {r: 0, g: 1, b: 5}
+        case 'brown':
+            return {r: 1, g: 0 , b: 0}
         case 'cyan':
             return {r: 0,g: 4, b: 4}
         case 'green':
             return {r: 2, g: 5, b: 0}
-        case 'red':
-            return {r: 5, g: 0, b: 0}
         case 'orange':
             return {r: 5, g: 3, b: 0}
-        case 'brown':
-            return {r: 1, g: 0 , b: 0}
-        case 'black':
-            return {r: 0, g: 0, b: 0}
+        case 'pink':
+            return {r: 5, g: 0, b: 5}
+        case 'red':
+            return {r: 5, g: 0, b: 0}
         case 'white':
             return {r: 5, g: 5, b: 5}
         default:
