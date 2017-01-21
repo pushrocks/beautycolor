@@ -29,7 +29,7 @@ let colorTranslator = (colorArg: TColorName): IRGB => {
         case 'black':
             return {r: 0, g: 0, b: 0}
         case 'blue':
-            return {r: 0, g: 1, b: 5}
+            return {r: 0, g: 2, b: 5}
         case 'brown':
             return {r: 1, g: 0 , b: 0}
         case 'cyan':
