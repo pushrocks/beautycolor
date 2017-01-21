@@ -21,4 +21,16 @@ colors for beautylog
 ## Usage
 Use TypeScript for best in class instellisense.
 
+```javascript
+import * as beautycolor from 'beautycolor'
+
+let myColoredString = beautycolor.coloredString(
+    'This string has a blue font and a green background',
+    'blue',
+    'green'
+)
+
+console.log(myColoredString)
+```
+
 [![npm](https://push.rocks/assets/repo-header.svg)](https://push.rocks)
