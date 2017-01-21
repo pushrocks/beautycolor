@@ -16,6 +16,7 @@ describe('beautycolor', function(){
             beautycolor.coloredString('red','red'),
             beautycolor.coloredString('orange','orange'),
             beautycolor.coloredString('green', 'green'),
+            beautycolor.coloredString('pink', 'pink'),
             beautycolor.coloredString('cyan', 'cyan')
         )
     })
@@ -26,6 +27,7 @@ describe('beautycolor', function(){
             beautycolor.coloredString('red', 'white', 'red'),
             beautycolor.coloredString('orange', 'white', 'orange'),
             beautycolor.coloredString('green', 'white', 'green'),
+            beautycolor.coloredString('pink', 'white', 'pink'),
             beautycolor.coloredString('cyan', 'white', 'cyan')
         )
     })
