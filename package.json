@@ -1,0 +1,25 @@
+{
+  "name": "beautycolor",
+  "version": "1.0.0",
+  "description": "colors for beautylog",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "(npmts)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/pushrocks/beautycolor.git"
+  },
+  "keywords": [
+    "color",
+    "terminal",
+    "beautylog",
+    "push.rocks"
+  ],
+  "author": "Lossless GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/pushrocks/beautycolor/issues"
+  },
+  "homepage": "https://gitlab.com/pushrocks/beautycolor#README"
+}
