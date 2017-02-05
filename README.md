@@ -2,10 +2,10 @@
 colors for beautylog
 
 ## Availabililty
-[![npm](https://push.rocks/assets/repo-button-npm.svg)](https://www.npmjs.com/package/beautycolor)
-[![git](https://push.rocks/assets/repo-button-git.svg)](https://GitLab.com/pushrocks/beautycolor)
-[![git](https://push.rocks/assets/repo-button-mirror.svg)](https://github.com/pushrocks/beautycolor)
-[![docs](https://push.rocks/assets/repo-button-docs.svg)](https://pushrocks.gitlab.io/beautycolor/)
+[![npm](https://pushrocks.gitlab.io/assets/repo-button-npm.svg)](https://www.npmjs.com/package/beautycolor)
+[![git](https://pushrocks.gitlab.io/assets/repo-button-git.svg)](https://GitLab.com/pushrocks/beautycolor)
+[![git](https://pushrocks.gitlab.io/assets/repo-button-mirror.svg)](https://github.com/pushrocks/beautycolor)
+[![docs](https://pushrocks.gitlab.io/assets/repo-button-docs.svg)](https://pushrocks.gitlab.io/beautycolor/)
 
 ## Status for master
 [![build status](https://GitLab.com/pushrocks/beautycolor/badges/master/build.svg)](https://GitLab.com/pushrocks/beautycolor/commits/master)
@@ -33,4 +33,4 @@ let myColoredString = beautycolor.coloredString(
 console.log(myColoredString)
 ```
 
-[![npm](https://push.rocks/assets/repo-header.svg)](https://push.rocks)
+[![npm](https://pushrocks.gitlab.io/assets/repo-header.svg)](https://push.rocks)
