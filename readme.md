@@ -33,4 +33,9 @@ let myColoredString = beautycolor.coloredString(
 console.log(myColoredString)
 ```
 
-[![npm](https://pushrocks.gitlab.io/assets/repo-header.svg)](https://push.rocks)
+For further information read the linked docs at the top of this README.
+
+> MIT licensed | **&copy;** [Lossless GmbH](https://lossless.gmbh)
+| By using this npm module you agree to our [privacy policy](https://lossless.gmbH/privacy.html)
+
+[![repo-footer](https://pushrocks.gitlab.io/assets/repo-footer.svg)](https://push.rocks)
