@@ -22,7 +22,7 @@ tap.test('should produce different font colors', async () => {
   )
 })
 
-tap.test('should produce different baclground colors', async () => {
+tap.test('should produce different background colors', async () => {
   console.log(
     beautycolor.coloredString('blue', 'white', 'blue'),
     beautycolor.coloredString('brown', 'white', 'brown'),
