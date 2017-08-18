@@ -35,8 +35,8 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.0.tgz#a8b68c324817169b6004b432a598478a5d8f025a"
 
 "@types/node@*":
-  version "8.0.22"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.22.tgz#9c6bfee1f45f5e9952ff6b487e657ecca48c7777"
+  version "8.0.24"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.24.tgz#06c580084d9add1fb40c1510ef0b448961246fb1"
 
 "@types/promises-a-plus@*":
   version "0.0.27"
@@ -66,10 +66,11 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
 
 beautycolor@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/beautycolor/-/beautycolor-1.0.7.tgz#a4715738ac4c8221371e9cbeb5a6cc6d11ecbf7c"
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/beautycolor/-/beautycolor-1.0.10.tgz#4b50758e59115839b3bb2bfe8aaaec9e29c747dd"
   dependencies:
     ansi-256-colors "^1.1.0"
+    tapbundle "^1.1.1"
     typings-global "^1.0.14"
 
 bindings@^1.2.1:
